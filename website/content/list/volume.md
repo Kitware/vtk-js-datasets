@@ -34,4 +34,24 @@ __With touch:__
 
 More can be found on that vtk.js application on its [original web site](https://kitware.github.io/vtk-js/examples/VolumeViewer.html).
 
+<style>
+  .gallery img {
+    width: 50%;
+    display: inline-block;
+    padding: 2px;
+  }
+  .gallery br {
+    display: none;
+  }
+</style>
 
+<div class="gallery">
+[![head][head]](./volume_head.html)
+[![lidc][lidc]](./volume_lidc.html)
+[![LIDC2][LIDC2]](./volume_lidc_small.html)
+</div>
+
+
+[head]: ./volume/head.jpg
+[lidc]: ./volume/lidc.jpg
+[LIDC2]: ./volume/LIDC2.jpg

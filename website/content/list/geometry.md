@@ -8,3 +8,20 @@ The current vtp supported format is __ascii__, __binary__ and __binary+zlib__ co
 
 More can be found on that vtk.js application on its [original web site](https://kitware.github.io/vtk-js/examples/GeometryViewer.html).
 
+<style>
+  .gallery img {
+    width: 50%;
+    display: inline-block;
+    padding: 2px;
+  }
+  .gallery br {
+    display: none;
+  }
+</style>
+
+<div class="gallery">
+[![earth][earth]](./geometry_earth.html)
+</div>
+
+
+[earth]: ./geometry/earth.jpg

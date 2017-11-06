@@ -8,3 +8,24 @@ That viewer is capable to load a standard OBJ file or a zip containing several O
 
 More can be found on that vtk.js application on its [original web site](https://kitware.github.io/vtk-js/examples/OBJViewer.html).
 
+<style>
+  .gallery img {
+    width: 50%;
+    display: inline-block;
+    padding: 2px;
+  }
+  .gallery br {
+    display: none;
+  }
+</style>
+
+<div class="gallery">
+[![f1][f1]](./obj_f1.html)
+[![blackhawk][blackhawk]](./obj_uh60.html)
+[![spaceship][spaceship]](./obj_spaceship.html)
+</div>
+
+
+[f1]: ./obj/f1.jpg
+[blackhawk]: ./obj/blackhawk.jpg
+[spaceship]: ./obj/spaceship.jpg
