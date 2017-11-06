@@ -17,5 +17,6 @@ module.exports = {
   },
   copy: [
     { src: '../data/*', dest: './build-tmp/public/data' },
+    { src: '../viewers/*', dest: './build-tmp/public/apps' },
   ],
 };
