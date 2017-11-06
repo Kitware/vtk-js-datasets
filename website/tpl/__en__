@@ -28,6 +28,7 @@ sidebar:
     volume: Volume Viewer
     lidc: Torso
     head: Head
+    lidcSmall: Torso Low Res
     geometry: Geometry Viewer
     obj: OBJ Viewer
     blackawk: UH-60 Blackhawk

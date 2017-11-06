@@ -12,6 +12,7 @@ list:
   volume:
     overview: volume.html
     lidc: volume_lidc.html
+    lidcSmall: volume_lidc_small.html
     head: volume_head.html
   geometry:
     overview: geometry.html
