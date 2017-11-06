@@ -1,0 +1,36 @@
+menu:
+  list: Sample data
+  search: Search
+
+index:
+  get_started: Get started
+
+page:
+  contents: Contents
+  back_to_top: Back to Top
+  improve: Improve this doc
+  prev: Prev
+  next: Next
+  last_updated: "Last updated: %s"
+
+sidebar:
+  list:
+    overview: Overview
+    scene: Scene Explorer
+    dragon: Dragon
+    earth: Earth
+    lidar: LIDAR
+    moyeu: Moyeu Extensible
+    singlepin: Single Pin
+    tbar: T-Bar Assembly
+    vesselContours: Vessel contours
+    vesselStreamlines: Vessel streamlines
+    volume: Volume Viewer
+    lidc: Torso
+    head: Head
+    geometry: Geometry Viewer
+    obj: OBJ Viewer
+    blackawk: UH-60 Blackhawk
+    spaceship: Spaceship
+    f1: Ferrari F1
+

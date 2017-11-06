@@ -1,0 +1,23 @@
+{
+    "name": "vtk-js-dataset",
+    "version": "0.0.0-semantically-release",
+    "description": "Usage with data of vtk.js applications",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kitware/vtk-js-datasets.git"
+    },
+    "license": "BSD-3-Clause",
+    "bugs": {
+        "url": "https://github.com/kitware/vtk-js-datasets/issues"
+    },
+    "homepage": "https://github.com/kitware/vtk-js-datasets#readme",
+    "devDependencies": {
+        "vtk.js": "latest",
+        "kw-doc": "1.1.1"
+    },
+    "scripts": {
+        "doc": "kw-doc -c ./website/config.js",
+        "doc:www": "kw-doc -c ./website/config.js -s",
+        "doc:publish": "kw-doc -c ./website/config.js -mp"
+    }
+}
