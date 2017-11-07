@@ -1,5 +1,6 @@
 menu:
   list: Sample data
+  lib: Library
   search: Search
 
 index:
