@@ -26,6 +26,8 @@ sidebar:
     tbar: T-Bar Assembly
     vesselContours: Vessel contours
     vesselStreamlines: Vessel streamlines
+    scene_mutc: MapTk - night scan
+    scene_hill: MapTk - hill
     volume: Volume Viewer
     lidc: Torso
     head: Head
