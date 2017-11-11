@@ -1,4 +1,4 @@
-title: MapTk - Hill mesh
+title: TeleSculptor Mesh - VIRAT Public DataSet, Fort A.P. Hill
 ---
 
 [![Visualization](./scene/hill.jpg)](/vtk-js-datasets/apps/SceneExplorer.html?fileURL=/vtk-js-datasets/data/vtkjs/hill.vtkjs)
