@@ -10,7 +10,7 @@ list:
     vesselContours: scene_vessel_contours.html
     vesselStreamlines: scene_vessel_streamlines.html
     scene_mutc: scene_mutc.html
-    scene_hill: scene_hill.html
+    scene_aphill: scene_aphill.html
   volume:
     overview: volume.html
     lidc: volume_lidc.html
