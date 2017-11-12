@@ -1,4 +1,4 @@
-title: MapTk - Mesh
+title: TeleSculptor Mesh - AFRL SUSSEX, MUTC
 ---
 
 [![Visualization](./scene/mutc-3d-fused-mesh.jpg)](/vtk-js-datasets/apps/SceneExplorer.html?fileURL=/vtk-js-datasets/data/vtkjs/mutc-3d-fused-mesh.vtkjs)
