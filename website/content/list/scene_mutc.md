@@ -1,6 +1,6 @@
-title: MapTk - Mesh
+title: TeleSculptor Mesh - AFRL SUSSEX, MUTC
 ---
 
-[![Visualization](./scene/mutc-3d-fused-mesh.jpg)](/vtk-js-datasets/apps/SceneExplorer.html?fileURL=/vtk-js-datasets/data/vtkjs/mutc-3d-fused-mesh.vtkjs)
+[![Visualization](./scene/telesculptor-mutc.jpg)](/vtk-js-datasets/apps/SceneExplorer.html?fileURL=/vtk-js-datasets/data/vtkjs/TeleSculptor-MUTC.vtkjs)
 
-__Data Size:__ [22.7 MB](/vtk-js-datasets/data/vtkjs/mutc-3d-fused-mesh.vtkjs)
+__Data Size:__ [22.7 MB](/vtk-js-datasets/data/vtkjs/TeleSculptor-MUTC.vtkjs)
