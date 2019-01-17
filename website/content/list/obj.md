@@ -23,9 +23,11 @@ More can be found on that vtk.js application on its [original web site](https://
 [![f1][f1]](./obj_f1.html)
 [![blackhawk][blackhawk]](./obj_uh60.html)
 [![spaceship][spaceship]](./obj_spaceship.html)
+[![boardgames][boardgames]](./obj_board_games.html)
 </div>
 
 
 [f1]: ./obj/f1.jpg
 [blackhawk]: ./obj/blackhawk.jpg
 [spaceship]: ./obj/spaceship.jpg
+[boardgames]: ./obj/boardgames.jpg

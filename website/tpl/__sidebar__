@@ -21,6 +21,7 @@ list:
     earth: geometry_earth.html
   obj:
     overview: obj.html
+    board_games: obj_board_games.html
     blackawk: obj_uh60.html
     spaceship: obj_spaceship.html
     f1: obj_f1.html
