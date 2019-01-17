@@ -1,4 +1,4 @@
-title: Board games
+title: TeleSculptor - Smartphone data
 ---
 
 [![Visualization](./obj/boardgames.jpg)](/vtk-js-datasets/apps/OBJViewer.html?fileURL=/vtk-js-datasets/data/obj-mtl/board_games.obz&noInterpolation)
