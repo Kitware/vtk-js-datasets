@@ -6,4 +6,4 @@ title: TeleSculptor - Smartphone data
 This dataset was generated from a smartphone video using [MAP-Tk TeleSculptor](https://github.com/kitware/maptk).
 The algorithms used to extract 3D from video can be found in [KWIVER](http://www.kwiver.org/).
 
-__Data Size:__ [5.2 MB](/vtk-js-datasets/data/obj-mtl/board_games.obz)
+__Data Size:__ [2.6 MB](/vtk-js-datasets/data/obj-mtl/board_games.obz)
