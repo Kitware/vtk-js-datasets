@@ -24,6 +24,8 @@ More can be found on that vtk.js application on its [original web site](https://
 [![blackhawk][blackhawk]](./obj_uh60.html)
 [![spaceship][spaceship]](./obj_spaceship.html)
 [![boardgames][boardgames]](./obj_board_games.html)
+[![jacksonville][jacksonville]](./jacksonville.html)
+[![omaha][omaha]](./omaha.html)
 </div>
 
 
@@ -31,3 +33,5 @@ More can be found on that vtk.js application on its [original web site](https://
 [blackhawk]: ./obj/blackhawk.jpg
 [spaceship]: ./obj/spaceship.jpg
 [boardgames]: ./obj/boardgames.jpg
+[jacksonville]: ./obj/jacksonville.jpg
+[omaha]: ./obj/omaha.jpg
