@@ -38,5 +38,5 @@ More can be found on that vtk.js application on its [original web site](https://
 [moyeu]: ./scene/moyeu.jpg
 [singlepin]: ./scene/singlepin.jpg
 [tbar]: ./scene/tbar.jpg
-[vessel_contours]: ./scene/vessel_contours.jpg
-[vessel_streamlines]: ./scene/vessel_streamlines.jpg
+[vessel_contours]: ./scene/vessel-contours.jpg
+[vessel_streamlines]: ./scene/vessel-streamlines.jpg
