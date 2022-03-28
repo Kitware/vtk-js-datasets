@@ -12,8 +12,8 @@
     },
     "homepage": "https://github.com/kitware/vtk-js-datasets#readme",
     "devDependencies": {
-        "vtk.js": "latest",
-        "kw-doc": "1.1.1"
+        "kw-doc": "^3.1.2",
+        "vtk.js": "latest"
     },
     "scripts": {
         "doc": "kw-doc -c ./website/config.js",
