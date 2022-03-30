@@ -2,225 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/index.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/api/FakeKit_FakeModule_FakeClass.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_aphill.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_dragon.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_lidar.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_earth.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_moyeu.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_mutc.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_singlepin.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_vessel_contours.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_tbar.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_vessel_streamlines.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/volume.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/volume_head.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/volume_lidc.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/volume_lidc_small.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/api/index.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/geometry.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/index.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/geometry_earth.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/jacksonville.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/obj.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/obj_board_games.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kitware.github.io/vtk-js-datasets/list/obj_f1.html</loc>
     
-    <lastmod>2022-03-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kitware.github.io/vtk-js-datasets/list/obj_spaceship.html</loc>
-    
-    <lastmod>2022-03-28</lastmod>
+    <lastmod>2022-03-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -229,7 +13,142 @@
   <url>
     <loc>https://kitware.github.io/vtk-js-datasets/list/obj_uh60.html</loc>
     
-    <lastmod>2022-03-28</lastmod>
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/api/FakeKit_FakeModule_FakeClass.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_mutc.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_tbar.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_singlepin.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_vessel_contours.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_vessel_streamlines.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/volume_head.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/volume.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/volume_lidc.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/volume_lidc_small.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_aphill.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_dragon.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_earth.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_lidar.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/scene_moyeu.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -238,7 +157,88 @@
   <url>
     <loc>https://kitware.github.io/vtk-js-datasets/list/omaha.html</loc>
     
-    <lastmod>2022-03-28</lastmod>
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/obj.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/obj_board_games.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/obj_spaceship.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/index.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/api/index.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/geometry.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/geometry_earth.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/index.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kitware.github.io/vtk-js-datasets/list/jacksonville.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -247,7 +247,7 @@
   <url>
     <loc>https://kitware.github.io/vtk-js-datasets/2016/04/28/kw-doc/</loc>
     
-    <lastmod>2022-03-28</lastmod>
+    <lastmod>2022-03-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -256,7 +256,7 @@
 
   <url>
     <loc>https://kitware.github.io/vtk-js-datasets</loc>
-    <lastmod>2022-03-28</lastmod>
+    <lastmod>2022-03-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
